@@ -23,4 +23,4 @@ Biological Extension (K2P Model): Re-calculates the statistic using the Kimura 2
 
 ## How to Run
 1. Install dependencies: `pip install biopython numpy`
-2. Run the script: `python tajima_analysis.py`
+2. Run the script: `script.py`
